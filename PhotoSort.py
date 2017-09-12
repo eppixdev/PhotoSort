@@ -75,3 +75,7 @@ def rename(file):
 
 
 walk_path(source_folder)
+
+
+# TODO: Create directories based on date of photo taken, if no EXIF data available, place in MISC
+# TODO: Check image hash for duplicates
